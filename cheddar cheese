@@ -1,0 +1,49 @@
+cheddar cheese 
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>All About Cheddar Cheese</title>
+    <link rel="stylesheet" href="cheddar.css">
+</head>
+<body>
+
+<h1>All About Cheddar Cheese</h1>
+
+<p>Welcome to my website about cheddar cheese!</p>
+
+<h2>What Is Cheddar Cheese?</h2>
+
+<p>
+    Cheddar is a popular cheese made from cow's milk.
+    It has a firm texture and can have a mild or sharp flavor.
+</p>
+
+<h2>History of Cheddar Cheese</h2>
+
+<p>
+    Cheddar cheese originated in Somerset, England.
+    Today, it is enjoyed by people all around the world.
+</p>
+
+<h2>Types of Cheddar Cheese</h2>
+
+<p><strong>Mild Cheddar:</strong> Has a smooth, gentle flavor.</p>
+
+<p><strong>Sharp Cheddar:</strong> Has a stronger, tangier flavor.</p>
+
+<p><strong>Extra Sharp Cheddar:</strong> Has a more intense flavor.</p>
+
+<h2>Fun Facts</h2>
+
+<ul>
+    <li>Cheddar originated in England.</li>
+    <li>Cheddar can be white or orange.</li>
+    <li>Cheddar is commonly used in grilled cheese sandwiches.</li>
+    <li>Aging cheddar changes its flavor and texture.</li>
+</ul>
+
+<p><a href="index.html">Return to Home Page</a></p>
+
+</body>
+</html>
